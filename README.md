@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-Opa! Me chamo Guilherme Vendramine, sou apaixonado por robótica, programação e empreendedorismo. Atualmente atuo como Customer Expirence no Software Botconversa.com.br e Programador na Braip.com
+Opa! Me chamo Guilherme Vendramine, sou apaixonado por robótica, programação e empreendedorismo. Atualmente atuo como Customer Expirence no Software Botconversa.com.br
 
 O Networking é tudo! Entre em contato comigo:
 
